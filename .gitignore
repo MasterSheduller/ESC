@@ -1,0 +1,14 @@
+*-backups
+*-cache
+*auto_saved_files*
+gerber
+bom
+*.pdf
+*.step
+*.zip
+*.bak
+*.log
+~*.lck
+*.rpt
+_autosave-*.kicad_*
+*.kicad_sch-bak
